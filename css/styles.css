@@ -1,0 +1,48 @@
+h1{font-size: 50;
+font-family: monospace;
+text-align: center}
+
+h2{font-size: 24;
+font-weight: bold;
+font-style: italic;
+text-align: center}
+
+body{
+  color: rgba(200, 50, 50, 0.5);
+text-align: center;
+padding-left: 100;
+padding-right: 100}
+
+div{
+    min-height:200vw
+    width:100vw
+}
+
+img{
+  align-self: center;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 120px
+}
+
+ol{
+  justify-content: space-evenly;
+  display: flex;
+}
+
+ul{
+  justify-content: center;
+  display:grid;
+}
+
+.toppart{
+  color: rgba(120, 120, 120,120)}
+
+.h4{font-size: 24;
+font-family: sans-serif;
+font-stretch: expanded;}
+
+.text{color: rgba(120, 120, 120, 120)}
+
+.footer{font-weight: bold;
+font-style: italic;}
